@@ -1,11 +1,10 @@
-# Nextjs Tailwind ECommerce Website Like Amazon
-
+# DroppCash Eccomerce
 ![next amazona](/public/app.jpg)
 
 Build ECommerce Website Like Amazon by Next.js
 
-- Source Code    :  https://github.com/basir/next-amazona
-- Demo Website :  https://nextjs-amazona-final.vercel.app
+- Source Code    :  https://github.com/itanand/next_js_eccom
+- Demo Website :  https://dropp-eccom.vercel.app
 
 ## What you will learn
 
